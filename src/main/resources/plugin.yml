@@ -1,0 +1,10 @@
+name: JsModuler
+version: 1.0
+main: me.daniel.jsmoduler.JsModuler
+author: Dan
+commands:
+    jsmoduler:
+        aliases: ["jsm"]
+permissions:
+  jsmoduler.reload:
+    default: op
