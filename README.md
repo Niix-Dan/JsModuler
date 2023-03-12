@@ -1,3 +1,3 @@
 # JsModuler
 
-* Este projeto é um rascunho e será refeito do zero. Pesso que criem Pull requests para ajuda do projeto
+* Este projeto é um rascunho e será refeito do zero. Pesso que não exitem em criar Pull requests
