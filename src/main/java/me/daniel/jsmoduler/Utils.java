@@ -51,7 +51,7 @@ public class Utils {
         
             if(!file.exists()) file.createNewFile();
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter(file.getAbsolutePath(), true));
+            BufferedWriter writer = new BufferedWriter(new FileWriter(file.getAbsolutePath()));
             writer.write(content);
             writer.close();
     }
